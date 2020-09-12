@@ -1,3 +1,3 @@
 # Matlab
  
-This repository contains reproduction codes for evolutionary alghorithms.
+This repository contains reproduction functions for evolutionary alghorithms.
